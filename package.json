@@ -1,0 +1,20 @@
+{
+  "name": "deja-pi-manual",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Manual /deja history search using vshulcz/deja-vu, without automatic recall.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QUNIXNG/deja-pi-manual.git"
+  },
+  "homepage": "https://github.com/QUNIXNG/deja-pi-manual#readme",
+  "bugs": {
+    "url": "https://github.com/QUNIXNG/deja-pi-manual/issues"
+  },
+  "pi": {
+    "extensions": [
+      "./deja.ts"
+    ]
+  }
+}
