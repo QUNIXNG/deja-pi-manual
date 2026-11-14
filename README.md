@@ -1,5 +1,8 @@
 # deja-pi-manual
 
+
+- 当前：`v0.1.0`
+- 最新：`v0.1.0`（[Releases](https://github.com/QUNIXNG/deja-pi-manual/releases)）
 一个只提供手动 `/deja` 搜索命令的 Pi 扩展。
 
 **历史索引、搜索程序与核心能力来自上游项目 [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu)。本仓库不是 deja-vu 的替代品或独立实现，只是本机 Pi 的手动搜索入口。**
